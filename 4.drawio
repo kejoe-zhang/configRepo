@@ -1,9 +1,164 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="26.2.13">
   <diagram name="第 1 页" id="97PyLYL7HMMN6vkpEN-O">
-    <mxGraphModel>
+    <mxGraphModel dx="1124" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.056;entryY=0.501;entryDx=0;entryDy=0;strokeWidth=1;endArrow=none;startFill=0;strokeColor=light-dark(#0762fe, #ededed);entryPerimeter=0;" edge="1" parent="1" source="QrHpp_SURgRh7qK3ZfFj-2" target="QrHpp_SURgRh7qK3ZfFj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0762fe, #ededed);perimeterSpacing=0;arcSize=24;imageHeight=24;" vertex="1" parent="1">
+          <mxGeometry x="119" y="165" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-3" value="智能问答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #ededed);fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="165" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-4" value="语义交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#86929e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="174" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0762fe, #ededed);perimeterSpacing=0;arcSize=24;imageHeight=24;" vertex="1" parent="1">
+          <mxGeometry x="469" y="165" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#0762fe, #ededed);perimeterSpacing=9;arcSize=24;imageHeight=24;" vertex="1" parent="1">
+          <mxGeometry x="829" y="165" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-7" value="报表访问" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #2493FF);fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="517.75" y="165" width="72.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-8" value="门户/自有系统、PC/移动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#86929e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="479" y="195" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-9" value="探索分析、下载取数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#86929e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="839" y="195" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-10" value="分析取数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #2493FF);fontSize=15;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="876.5" y="165" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-11" value="数据门户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="107" y="280" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="330" width="410" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-13" value="仪表板" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-14" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="364" width="120" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-15" value="基础图形" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-16" value="表格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-17" value="定制图表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-18" value="控件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="461" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-20" value="分析型图表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=#FFFFFF;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="250" y="365" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-21" value="高级计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-22" value="交互式分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="250" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-23" value="数据故事构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="365" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-24" value="联动分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-25" value="数据见解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="460" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="280" width="220" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-27" value="电子表格" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="538" y="298" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-28" value="点选式自助分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="538" y="368" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-29" value="自助取数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="538" y="438" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="280" width="230" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-31" value="页面、卡片嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="767" y="291" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-32" value="数据连接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="767" y="344" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-33" value="钉钉、飞书等集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="767" y="397" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-34" value="开放接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0762fe, #ededed);strokeColor=none;fontColor=light-dark(#ffffff, #ededed);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="767" y="451" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="999" y="280" width="41" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-36" value="组件及模版市场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="296.75" width="21" height="191.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;fontColor=light-dark(#0762fe, #ededed);strokeColor=light-dark(#0762fe, #ededed);gradientColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="563.25" y="81.75" width="20" height="928.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-38" value="内核引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="513.5" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-43" value="平台强基础" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="513.5" width="205" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="570" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-45" value="云数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="212" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-46" value="MySQL、PostgreSQL、Oracle等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#86929e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433.25" y="570" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-48" value="本地数据库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="528" y="570" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-49" value="MySQL、PostgreSQL、Oracle等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#86929e, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="469.25" y="600" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="570" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-52" value="文件上传" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="585" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-56" value="可视化分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #ededed);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="268" y="240" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-57" value="自助分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #ededed);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="603" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-58" value="开放集成能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#0762fe, #ededed);fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="814.5" y="240" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-60" value="定制图表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="140" y="501" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QrHpp_SURgRh7qK3ZfFj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;strokeColor=light-dark(#0762fe, #ededed);" edge="1" parent="1" source="QrHpp_SURgRh7qK3ZfFj-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="829" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
